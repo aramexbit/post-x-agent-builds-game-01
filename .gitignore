@@ -1,0 +1,5 @@
+node_modules/
+out/
+*.log
+transcripts.tar.gz
+.DS_Store
